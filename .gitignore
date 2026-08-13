@@ -1,0 +1,7 @@
+# Rust build artifacts
+/target
+
+# Local test / debug leftovers
+*.log
+run_*.txt
+webview-data/
