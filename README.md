@@ -1,1 +1,1 @@
-### 使用前，确保当前必须安装node环境
+### Before use, ensure that the Node environment is currently installed
